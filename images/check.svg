@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rectangle with white fill and primary-light border -->
+  <rect x="1" y="1" width="22" height="22" fill="white" stroke="#062630" stroke-width="2" rx="5" ry="5"/>
+  
+  <!-- Checkmark path wrapped in a group to maintain existing properties -->
+  <g>
+    <path d="M17.06 4.80005L18.36 7.00005C16.1 8.06005 14.44 9.54005 13.4 11.46C12.38 13.36 11.84 15.88 11.8 19H9.2C8.9 16.38 7.5 14.44 4.8 13.72L5.72 11.28C6.76 11.6 7.68 12.16 8.48 12.98C9.3 13.8 9.84 14.72 10.12 15.76C10.58 10.9 12.92 7.12005 17.06 4.80005Z" fill="currentColor"/>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+<svg width="540" height="606" viewBox="0 0 540 606" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple rounded rectangle with dimensions 540x606 -->
+  <path d="M0 40C0 17.9086 17.9086 0 40 0H500C522.091 0 540 17.9086 540 40V566C540 588.091 522.091 606 500 606H40C17.9086 606 0 588.091 0 566V40Z" fill="black"/>
+</svg>
